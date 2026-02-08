@@ -1,0 +1,41 @@
+html{
+    text-align: center;
+}
+
+
+h1{
+    font-weight: bolder;
+    text-align: center;
+}
+h5{
+    font-weight: lighter;
+    text-align: center;
+}
+label{
+    display: block;
+margin: 20px;
+text-align: center;
+justify-content: center;
+}
+input{
+    display: block;
+     text-align: center;
+     justify-content: center;
+}
+footer{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+body {
+    background: rgba(255, 255, 255, 0.74);
+    width: 100%;
+    max-width: 220px;
+    margin: 60px auto;
+    font-family: 'Raleway';
+    padding: 15px;
+    border-radius: 10px;
+    
+    background-image: url(Top-30-Natural-Wonders-in-Egypt-Egypt-Tours-Portal.jpg ) ;
+}
